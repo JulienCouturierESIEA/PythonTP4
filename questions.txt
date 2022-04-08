@@ -1,0 +1,18 @@
+	----------------------------------
+	Python, outil de l'ingénieur - TP4
+	----------------------------------
+
+
+  * Qu'est-ce qu'un bot ?
+
+Un bot est un programme qui intéragit avec des serveurs sur internet comme 
+le ferait un humain.
+
+
+
+  * Qu'est-ce que le logging ? À quoi servent les logs ?
+
+Le logging signifie la gestions des logs.
+
+Les logs sont stockés sur un logfile. Le logfile est un fichier qui 
+enregistre tous les évènements affectant un processus en particulier.
